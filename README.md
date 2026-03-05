@@ -15,8 +15,6 @@
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
     "editor.minimap.enabled": false,
-    "editor.scrollbar.vertical": "hidden",
-    "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": false,
     "chat.disableAIFeatures": true,
     "chat.extensionUnification.enabled": false
